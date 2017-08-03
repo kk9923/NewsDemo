@@ -1,0 +1,2 @@
+# NewsDemo
+NewDemo for Android
